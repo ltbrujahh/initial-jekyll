@@ -6,7 +6,8 @@ categories: jekyll update
 ---
 First off, I'd just like to thank Antonio for getting me started on the likes of `vim` back in my Attache days, else it would be the maddest struggle to get me started on this little project of mine...
 
-So getting this project started needed some planning. Overall I had a general idea of:
+So getting this project started needed some planning.  
+Overall I had a general idea of:
 
 - Read about Jekyll
 - Get a build going locally in an environment (preferablly linux)
@@ -33,16 +34,18 @@ But thank goodnesss for stackoverflow!
 
 So now its up, live on [ltbrujahh.github.io][blog-url]! Which I should probably change URL at some point...
 
-which means buying a domain,
-and choosing a name,
-and finding a cheap provider,
-... do I want .com or .com.au?
+which means buying a domain,  
+and choosing a name,  
+and finding a cheap provider,  
+... do I want .com or .com.au?  
 
 Exciting times!
 
 So thats my next TODO pretty much.
 
-And I also need to figure out how whether I want to stick to using `vim` or `vscode`, but that means I need to setup the environment for Windows instead of Linux which *apparently* isn't quite good for Ruby development. Ah well at least I can practise my `vi` skills!
+And I also need to figure out how whether I want to stick to using `vim` or `vscode`, but that means I need to setup the environment for Windows instead of Linux which *apparently* isn't quite good for Ruby development. 
+
+Ah well at least I can practise my `vi` skills!
 
 ---
 
