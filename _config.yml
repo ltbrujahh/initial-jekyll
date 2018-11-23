@@ -17,7 +17,7 @@ title: blog.technical.me
 email: no-email-for-now-until-i-get@mykooldomain.com
 description: >- # this means to ignore newlines until "baseurl:"
   Language agnostic engineer, here to share his interesting findings in the road to #fullstack.
-baseurl: "/language-agnostic" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: ltbrujahh
