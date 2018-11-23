@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to Fluent Programming"
-date: 2018-11-21 21:05:00 +1100
+date: 2018-11-22 21:05:00 +1100
 categories: experiment
 tags: todayilearned fluent
 tdd-youtube-id: GvAzrC6-spQ
